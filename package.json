@@ -1,0 +1,14 @@
+{
+  "name": "angeljegue",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "angel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
